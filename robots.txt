@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamldc.github.io/sitemap.xml
